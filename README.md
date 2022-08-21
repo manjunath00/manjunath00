@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for opportunities
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Blockchain**
 
 - 🤝 I’m currently developing my [portfolio](http://manjunath00.vercel.app/)
 
