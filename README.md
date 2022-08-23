@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for opportunities
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Apache Spark** & **K8s**
 
 - 🤝 I’m currently developing my [portfolio](http://manjunath00.vercel.app/)
 
