@@ -9,6 +9,3 @@
 - 📫 How to reach me **manjunath06a@gmail.com**
 
 
-<br />
-<p></p>
-
