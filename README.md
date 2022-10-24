@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **Apache Spark** & **K8s**
 
+- Lives in (VSCode|Vim|Terminal) at (Slackware|Ubuntu)
 
 - 📫 How to reach me **manjunath06a@gmail.com**
 
