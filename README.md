@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently looking for opportunities
 
-- 🌱 I’m currently learning **Apache Spark** & **K8s**
-
 - Uses **Slackware** & **Ubuntu**
 
 - 📫 How to reach me **manjunath06a@gmail.com**
